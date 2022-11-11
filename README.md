@@ -6,4 +6,6 @@ To view the gifs, you can open the GIFs directory.
 To view the code used, you can open the Desktop directory.
 The Desktop directory contains the Pybullet code, one for each of the robots.
 Each of the Pybullet folders contain code, URDFs and Mesh files for the respectives robots.
-The Desktop directory also contains the Pyomo code. Within the Pyomo folder, you will find Jupyter Notebook's for each of the robots. 
+The Desktop directory also contains the Pyomo code. Within the Pyomo folder, you will find Jupyter Notebook's for each of the robots.
+To run the Pybullet code, the referenced directories of the URDF files must be corrected to your directory.
+
